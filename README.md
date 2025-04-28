@@ -11,6 +11,7 @@ Project Structure
 📊 Dataset Overview
 
     Source: Kaggle - Movies Dataset by Daniel Grijalva
+    https://www.kaggle.com/datasets/danielgrijalvas/movies
 
     Description:
     The dataset provides metadata for over 7,000 movies, including:
